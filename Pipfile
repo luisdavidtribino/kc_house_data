@@ -9,6 +9,7 @@ matplotlib = "*"
 seaborn = "*"
 notebook = "*"
 scikit-learn = "*"
+tabulate = "*"
 
 [dev-packages]
 
